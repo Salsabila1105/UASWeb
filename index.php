@@ -1,4 +1,5 @@
 <?php
 
 include './header.php'; 
-include './Partnership.php'; 
+require './Body.php';
+include './Footer.php';
